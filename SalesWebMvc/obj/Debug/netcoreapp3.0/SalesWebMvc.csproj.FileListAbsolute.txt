@@ -125,3 +125,7 @@ C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\b
 C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\lucas\source\repos\EstudosUdemyCsharp\ASP.NET\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Edit.cshtml.g.cs
